@@ -1,5 +1,5 @@
 .vite
-index.html     
+/index.html     
 package-lock.json  
 public
 vite.config.js
@@ -7,3 +7,4 @@ eslint.config.js
 node_modules 
 package.json       
 src
+README.md
