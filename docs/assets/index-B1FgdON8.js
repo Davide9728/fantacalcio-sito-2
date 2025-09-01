@@ -63,6 +63,9 @@ L’inerzia dei match è stata spesso decisa dai singoli: Castellanos trascina S
 
 Numeri chiave: media generale 72,5 (deviazione standard 6,6). Vittoria più larga BANDA BARZOTTI su MAGIKARP (20,5); più tirata DIFENDARIOTEAM su TETTHENAM (5,0). Nessun pareggio alla prima: partenza a marce alte, con indicatori coerenti tra performance e risultato. Segnali dalla lavagna: chi difende bene scappa, e tra le sconfitte spicca TETTHENAM (punteggio da metà alta nonostante il ko).
 
+MVP 
+
+BANDA BARZOTTI — miglior punteggio (83,0), vittoria più larga (+20,5), gestione pulita tra modificatore e bonus: l’impatto più pesante della giornata
 
 SPUNTI RAPIDI (bordocampo + numeri)
 
